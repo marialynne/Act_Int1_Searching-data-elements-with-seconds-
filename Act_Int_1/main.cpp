@@ -9,6 +9,7 @@ Fecha: 13 de septiembre de 2020
     4) Solicite al usuario las fechas de inicio y fin de búsqueda de información.
     5) Despliegue los registros correspondientes a esas fechas.
     6) Almacene en un archivo el resultado del ordenamiento.
+
 */
 
 #include <iostream>
